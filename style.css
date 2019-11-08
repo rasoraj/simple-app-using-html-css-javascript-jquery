@@ -1,0 +1,331 @@
+.bg{
+    background-image: url("images\ \(16\).jpg");
+}
+
+.hdbg{
+    position: relative;
+}
+
+#head{
+    margin:15px 0px 0px 650px;
+    color:white;
+    font-family: 'Haettenschweiler';
+    font-size: 30px;
+}
+
+.overbg{
+    background-color: greenyellow;
+    height:400px;
+    width:400px;
+    margin: 150px auto;
+    border-style: solid;
+    border-width: 4px 4px 4px 4px red;
+    position: relative;
+}
+
+.undbg{
+    margin:-52px auto;
+    position:absolute;
+    left:553px;
+    width:400px;
+    height: 25px;
+    opacity:0.7;
+    border-radius: 0.5px;
+}
+
+.atbg{
+    position:relative;
+}
+
+.btn{
+    height:25px;
+    width:75px;
+    margin:0px 0px 0px 725px;
+    background-color: chartreuse;
+    position:absolute;
+}
+
+.box{
+    background-color: white;
+    height:100px;
+    width:100px;
+    position:absolute;
+}
+
+.reiner{
+    height:100px;
+    width:100px;
+    top:0px;
+    position: absolute;
+    
+}
+
+.box1{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:100px;
+    top:0px;
+    position:absolute;
+}
+
+.cena{
+    height:100px;
+    width:100px;
+    top:0px;
+    left:100px;
+    position: absolute;
+    
+}
+
+.box2{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:200px;
+    top:0px;
+    position:absolute;
+}
+
+.orton{
+    height:100px;
+    width:100px;
+    top:0px;
+    left:200px;
+    position: absolute;
+    
+}
+
+.box3{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:300px;
+    top:0px;
+    position:absolute;
+}
+
+.big{
+    height:100px;
+    width:100px;
+    top:0px;
+    left:300px;
+    position: absolute;
+    
+}
+
+.box4{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:0px;
+    top:100px;
+    position:absolute;
+}
+
+.mike{
+    height:100px;
+    width:100px;
+    top:100px;
+    left:0px;
+    position: absolute;
+    
+}
+
+.box5{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:100px;
+    top:100px;
+    position:absolute;
+}
+
+.brock{
+    height:100px;
+    width:100px;
+    top:100px;
+    left:100px;
+    position: absolute;
+    
+}
+
+.box6{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:200px;
+    top:100px;
+    position:absolute;
+}
+
+.triple{
+    height:100px;
+    width:100px;
+    top:100px;
+    left:200px;
+    position: absolute;
+    
+}
+
+.box7{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:300px;
+    top:100px;
+    position:absolute;
+}
+
+.img6{
+    height:100px;
+    width:100px;
+    top:100px;
+    left:300px;
+    position: absolute;
+    
+}
+
+.box8{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:0px;
+    top:200px;
+    position:absolute;
+}
+
+.img7{
+    height:100px;
+    width:100px;
+    top:200px;
+    left:0px;
+    position: absolute;
+    
+}
+
+.box9{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:100px;
+    top:200px;
+    position:absolute;
+}
+
+.img8{
+    height:100px;
+    width:100px;
+    top:200px;
+    left:100px;
+    position: absolute;
+    
+}
+
+.box10{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:200px;
+    top:200px;
+    position:absolute;
+}
+
+.img9{
+    height:100px;
+    width:100px;
+    top:200px;
+    left:200px;
+    position: absolute;
+    
+}
+
+.box11{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:300px;
+    top:200px;
+    position:absolute;
+}
+
+.img10{
+    height:100px;
+    width:100px;
+    top:200px;
+    left:300px;
+    position: absolute;
+    
+}
+
+.box12{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:0px;
+    top:300px;
+    position:absolute;
+}
+
+.img11{
+    height:100px;
+    width:100px;
+    top:300px;
+    left:0px;
+    position: absolute;
+    
+}
+
+.box13{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:100px;
+    top:300px;
+    position:absolute;
+}
+
+.img12{
+    height:100px;
+    width:100px;
+    top:300px;
+    left:100px;
+    position: absolute;
+    
+}
+
+.box14{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:200px;
+    top:300px;
+    position:absolute;
+}
+
+.img13{
+    height:100px;
+    width:100px;
+    top:300px;
+    left:200px;
+    position: absolute;
+    
+}
+
+.box15{
+    background-color: white;
+    height:100px;
+    width:100px;
+    left:300px;
+    top:300px;
+    position:absolute;
+}
+
+.img14{
+    height:100px;
+    width:100px;
+    top:300px;
+    left:300px;
+    position: absolute;
+    
+}
